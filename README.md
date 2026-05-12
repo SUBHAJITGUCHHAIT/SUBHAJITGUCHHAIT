@@ -17,6 +17,7 @@
 
 ### 👨‍💻 Languages
 - Java
+- Python
 - JavaScript
 - SQL
 
@@ -24,6 +25,7 @@
 - HTML5
 - CSS3
 - JavaScript
+- React
 
 ### ⚙️ Backend
 - Spring Boot
@@ -35,6 +37,7 @@
 ### 🗄️ Database
 - MySQL
 - H2 Database
+- PostgreSQL
 
 ### 🛠️ Tools & Platforms
 - Git
@@ -52,6 +55,7 @@
 - System Design
 - API Development
 - DSA & Problem Solving
+- Security 
 
 ---
 
@@ -70,7 +74,9 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHAJITGUCHHAIT&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHAJITGUCHHAIT&layout=compact&theme=tokyonight&cache_seconds=1800" 
+  />
 </p>
 
 ---
@@ -78,8 +84,8 @@
 ## 🔗 Connect With Me
 
 - GitHub: https://github.com/SUBHAJITGUCHHAIT
-- LinkedIn: Add your LinkedIn link here
-- Email: Add your email here
+- LinkedIn: www.linkedin.com/in/subhajit-guchhait-6209762b3
+- Email: subhajitguchhait12@gmail.com
 
 ---
 
