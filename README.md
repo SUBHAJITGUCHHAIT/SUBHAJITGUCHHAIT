@@ -47,7 +47,11 @@
 
 ## 📈 Most Used Languages
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SUBHAJITGUCHHAIT&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# ⚡ Language Matrix
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SUBHAJITGUCHHAIT&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
