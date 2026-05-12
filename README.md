@@ -45,8 +45,6 @@
 
 ---
 
-## 📈 Most Used Languages
-
 # ⚡ Language Matrix
 
 <p align="center">
