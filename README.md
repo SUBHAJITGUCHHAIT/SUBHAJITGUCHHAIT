@@ -12,39 +12,13 @@
 - ⚡ Passionate about building scalable and real-world applications
 
 ---
+# 🚀 Tech Arsenal
 
-## 🧰 Tech Stack
+<div align="center">
 
-### 👨‍💻 Languages
-- Java
-- Python
-- JavaScript
-- SQL
+<img src="https://skillicons.dev/icons?i=java,python,js,react,spring,mysql,postgres,git,github,maven,postman,idea&theme=dark" />
 
-### 🌐 Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React
-
-### ⚙️ Backend
-- Spring Boot
-- Spring MVC
-- REST API
-- Hibernate
-- JPA
-
-### 🗄️ Database
-- MySQL
-- H2 Database
-- PostgreSQL
-
-### 🛠️ Tools & Platforms
-- Git
-- GitHub
-- IntelliJ IDEA
-- Postman
-- Maven
+</div>
 
 ---
 
